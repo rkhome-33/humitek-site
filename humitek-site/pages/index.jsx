@@ -263,7 +263,7 @@ export default function HumitekHome() {
                 <h3 className="text-lg font-semibold">Recherche de fuites</h3>
               </div>
               <p className="mt-3 text-sm text-slate-600">
-                Caméra thermique FLIR E5 Pro, tests ciblés, localisation non destructive, rapport photo.
+                Inspection thermographique, hygrométrie, inspection par caméra, traceurs, etc.
               </p>
               <a href="#contact" className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-sky-700 hover:underline">En savoir plus <ArrowRight className="h-4 w-4"/></a>
             </div>
@@ -272,10 +272,10 @@ export default function HumitekHome() {
                 <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-sky-50 text-sky-700">
                   <CalendarDays className="h-6 w-6"/>
                 </div>
-                <h3 className="text-lg font-semibold">Assèchement & suivi</h3>
+                <h3 className="text-lg font-semibold">Expertise Conseil Avant Vente</h3>
               </div>
               <p className="mt-3 text-sm text-slate-600">
-                Mise en place de solutions d’assèchement, contrôles périodiques, conseils d’entretien.
+                Diagnostic complet avant vente, pathologies du batiment.
               </p>
               <a href="#contact" className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-sky-700 hover:underline">En savoir plus <ArrowRight className="h-4 w-4"/></a>
             </div>
