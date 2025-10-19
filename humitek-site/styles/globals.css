@@ -1,0 +1,7 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base tweaks */
+html, body { scroll-behavior: smooth; }
